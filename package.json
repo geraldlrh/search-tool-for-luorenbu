@@ -1,0 +1,15 @@
+{
+  "name": "search-tool-for-luorenbu",
+  "version": "1.0.0",
+  "description": "a search tool for luorenbu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geraldlrh",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^6.0.4",
+    "prompt": "^0.2.14"
+  }
+}

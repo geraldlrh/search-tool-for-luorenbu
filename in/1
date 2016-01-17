@@ -1,0 +1,41 @@
+Patient Name         : JI, YANHUA (114766)
+Patient ID           : 114766
+Comment              : DVHs for one plan
+Date                 : 21.11.2015  10:33:06
+Type                 : Cumulative Dose Volume Histogram
+Description          : The cumulative DVH displays the percentage (relative)
+                       or volume (absolute) of structures that receive a dose
+                       equal to or greater than a given dose.
+
+Plan: Treatment
+Prescribed dose [cGy]: 6522.3
+% for dose (%): 100.0
+
+Structure: PTVnx
+Approval Status: Unapproved
+Plan: Treatment
+Course: Research
+Volume [cm³]: 51.7
+Dose Cover.[%]: 100.0
+Sampling Cover.[%]: 99.7
+Min Dose [cGy]: 6245.5
+Max Dose [cGy]: 7550.9
+Mean Dose [cGy]: 7168.1
+Modal Dose [cGy]: 7175.6
+Median Dose [cGy]: 7177.4
+STD [cGy]: 139.7
+Equiv. Sphere Diam. [cm]: N/A
+Conformity Index: N/A
+Gradient Measure [cm]: N/A
+
+       Dose [cGy]   Relative dose [%] Ratio of Total Structure Volume [%]
+                0                   0                       100
+              0.1           0.0015332                       100
+              0.2          0.00306641                       100
+              0.3          0.00459961                       100
+              0.4          0.00613282                       100
+              0.5          0.00766602                       100
+              0.6          0.00919923                       100
+              0.7           0.0107324                       100
+             7413              178.48              9.72704e-005            
+
