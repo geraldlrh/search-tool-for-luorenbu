@@ -1,6 +1,4 @@
 node_modules/
-in/
-in0/
 npm-debug.log
 .DS_Store
 out.txt
